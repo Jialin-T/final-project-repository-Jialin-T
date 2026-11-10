@@ -1,41 +1,51 @@
 # Title
+Drink Shop
 
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/Jialin-T/final-project-repository-Jialin-T.git
 
 ## Description
-1-2 sentence description of what it will do and how it relevant to media and digital arts.
+A digital game of drink shop simulator. During this game, it will unlock recepie of drinks and making money to get achievement.
 
 ## Features
-- Feature 1
-	- Short explaination of how it will be executed.
-- Feature 2
-	- Short explaination of how it will be executed.
-- Feature N 
-	- Short explaination of how it will be executed.
+- Background changing
+	- use code to read video files of different backgrounds. Use random method to show background randomly. Add effect transition animation between backgound changing.
+- Pop-up window
+	- use code to create a new window for different situations.
+- Recepie of drinks
+	- 4 colors, combine 2 colors can get new drink. list 14 posibility, add images for posible drinks.
+- Level of drinks
+    - list out all level of drinks, show random comment for sertain level, use condition to add different money when making different level of drink.
+- Color mix
+    - add fluid animation when click buttom, use "digital rain" method. Use blend method to show up new color when click color buttom.
 
 ## Challenges
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
+- Play animation when click something
+- create new window inside the game window
+- stay changes during game instaed of cover over
+- images or windows moving animation
 
 ## Outcomes
 Ideal Outcome:
-- Briefly describe what is the ideal outcome?
+- Background changing smoothly; drink recipie images will unlock one by one; money count correct; show different comment for diffreent level; all click function working; animations are smooth.
 
 Minimal Viable Outcome:
-- Briefly describe the bare essential for a good working outcome?
+- 14 posible drinks show up correct images; click functions working; money adding
 
 ## Milestones
 
 - Week 1
-  1. Goal 1
-  2. Goal 2
+  1. find and draw out all visual assets
+  2. background making
+  3. add click function
 
 - Week 2
-  1. Goal 1
-  2. Goal 2
+  1. list all posible drinks
+  2. pop up window with correct result drink
+  3. add random comment
+  4. add moeny for different level
 
 - Week N (Final)
-  1. Goal 1
-  2. Goal 2
+  1. add animation of fluid fall
+  2. add animation of mixing color
+  3. pop up window of achievement
